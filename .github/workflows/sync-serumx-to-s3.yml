@@ -3,7 +3,7 @@ name: Sync serumx website
 on:
   push:
     branches:
-      - develop
+      - xyz
 jobs:
   deploy:
     runs-on: windows-latest
